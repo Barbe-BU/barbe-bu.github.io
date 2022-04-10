@@ -35,6 +35,6 @@ li {
 }
 
 a {
-  color: rgb(130, 255, 255);
+  color: rgba(130, 255, 255, 0.611);
   text-decoration: none;
 }

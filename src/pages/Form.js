@@ -7,7 +7,10 @@ export default function Form() {
     <>
       <Head />
       <div className="div-main">
-        <h1>Form</h1>
+        <h1 style={{ textAlign: "center" }}>
+          En attente de connaissances <br />
+          sur les Formulaires
+        </h1>
         <Nav />
       </div>
     </>

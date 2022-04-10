@@ -22,6 +22,7 @@ code {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  min-height: 500px;
 }
 .back-to-home {
   background: #1b183f;
